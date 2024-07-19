@@ -16,7 +16,7 @@ Necesita instalar las siguientes librerias:
 * OpenCV, versión 4.9.0 [sitio web Opencv](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html)
 * Frugally Deep, versión 1.15.0 [sitio web Frugally Deep](https://github.com/Dobiasd/frugally-deep)
 * Dlib, versión 19.9 [sitio web Dlib](http://dlib.net/)
-* Keras, version [sitio web Keras](1.15.0 https://keras.io/)
+* Keras, version 1.15.0  [sitio web Keras](https://keras.io/)
 * Mysqlconnector, versión 1.1.13
 
 # Puesta en Marcha
